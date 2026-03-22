@@ -1,15 +1,24 @@
-## ``` $ whoami ```
+# Cloud Native DevOps Engineer and Solution Architect
 
-# Cloud Native DevOps Engineer, Science and Leadership Enthusiast 
+## `$ whoami`
 
-In the IT industry, he feels at home. His passion is dedicated to Cloud-Native technologies and topics related to leadership and science. In his current role as a Delivery Teamlead and a DevOps Engineer, he and his Kanban-Team are responsible for software quality. In addition to test automation, he is developing a concept for implementing a complete continuous deployment approach. To ensure the optimal success of these initiatives, he consistently endeavors to broaden his technical horizons. Beyond technical matters, he takes a keen interest in lean & agile principles and how these can be best applied in leadership culture, aiming to foster self-organized and high-performing teams.
+DevOps Engineer and Delivery Team Lead with a passion for cloud-native computing. As flag bearer for the Solution Team goal "Continuous Deployment and Release on Demand", he drives the technical implementation of modern CI/CD practices – with the goal of deploying software faster, more securely, and more reliably to production. Lean & Agile principles form the foundation of his work in self-organized and high-performing teams.
 
-<img width="1100" alt="boot.dev profilce card" src="https://api.boot.dev/v1/users/public/e75d6b15-0e48-449a-a50f-d8b9f7893ae2/thumbnail" title="boot.dev Profile Card">
-<img width="1100" alt="brewfile" src="https://github.com/mhfsudo/michaelfriderich/assets/48755847/92cea3d9-e130-46e5-8496-b22f4cc7046e" title="Brewfile Profile Card">
+## Skills
+
+- CI/CD
+- Kubernetes
+- Linux
+- GitOps
+- Containerization
+- Leadership
 
 # Michael Friderich
-[![E-Mail](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=protonmail&logoColor=007BB6)][mail]
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)][linkedin]
 
-[mail]: mailto:gitlab@frideri.ch
+[![E-Mail](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=protonmail)][mail]
+[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin)][linkedin]
+[![Credly](https://img.shields.io/badge/-Credly-090909?style=for-the-badge&logo=credly)][creedly]
+
+[mail]: mailto:github@frideri.ch
 [linkedin]: https://www.linkedin.com/in/michael-friderich-b699a4140/?locale=en_US
+[creedly]: https://www.credly.com/users/michael-friderich
